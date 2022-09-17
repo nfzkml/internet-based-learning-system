@@ -1,0 +1,58 @@
+body {
+	background: #2f4050;
+}
+
+.col-sm-10 {
+	background: #fff;
+}
+ul#sideMenu a {
+	color: white;
+}
+
+ul#sideMenu .active a {
+	font-weight: bold;
+	color: white;
+	background: #4caf50;
+}
+
+ul#sideMenu li a:hover {
+	background: #4caf50;
+	color: white;
+}
+
+.col-sm-2 h1 {
+	color: white;
+}
+.navbar-brand img {
+	margin-top: -14px;
+	max-height: 50px;
+}
+ul.nav.navbar-nav li{
+	font-weight: bold;
+	font-size: 1.2em;
+	font-family: Bitter,Georgia,Times,"Times New Roman",serif;
+}
+.line {
+	margin-top: -20px;
+}
+#footer{
+	padding: 10px;
+	border-top: 1px solid black;
+	color: #eee;
+	background: #211f22;
+	text-align: center;
+}
+img.img-responsive.img-thumbnail {
+	width: 119px;
+	height: 67px;
+	margin: 0 auto;
+}
+th,td{
+	text-align: center;
+}
+table{
+	font-family: "Lucida Sans Unicode","Lucida Grande",sans-serif;
+}
+.col-sm-2 {
+    padding-top: 15px;
+}

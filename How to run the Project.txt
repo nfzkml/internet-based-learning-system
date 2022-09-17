@@ -1,5 +1,3 @@
-# internet-based-learning-system
-
 How to run the Project
 
 1. After download the zip file, Extract the file and copy the folder 'myCMS'.
